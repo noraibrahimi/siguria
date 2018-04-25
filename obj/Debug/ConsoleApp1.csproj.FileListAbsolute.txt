@@ -1,0 +1,10 @@
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\FIEK - Projektet\Siguria e te Dhenave\test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
